@@ -1,6 +1,6 @@
 var avgTemp = [  ]
 
-avgTemp[0] = 31.9 
+avgTemp[0] = 31.9
 avgTemp[1] = 35.3
 avgTemp[2] = 42
 avgTemp[3] = 38
