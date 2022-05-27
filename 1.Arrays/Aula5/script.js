@@ -20,6 +20,12 @@ numbers.unshift(-4)
 //subescreve o valor anterior
 numbers[0] = -40
 
+// Removendo elementos do final 
+numbers.pop()
+
+// Removendo elementos do começo
+numbers.shift()
+
 console.log(numbers)
 
 
